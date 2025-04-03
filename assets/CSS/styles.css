@@ -11,7 +11,8 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #a4c2d1;;
+    background-color: #a4c2d1;
+    padding-top: 56px; /* Adjust this value based on the navbar height */
     
 }
 
@@ -27,10 +28,12 @@ h1, h2 {
 
 #about {
     background-color: white;
+    padding-top: 56px; 
    }
 
 #portfolio {
     background-color: #dbdcde;
+    padding-top: 56px; 
 }
 
 #portfolio .card-title {
@@ -48,6 +51,7 @@ h1, h2 {
 
 #contact {
     background-color: white;
+    padding-top: 56px; 
 }
 
 #hero {
